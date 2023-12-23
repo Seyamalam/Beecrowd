@@ -1,7 +1,3 @@
-# Ivan Carvalho
-# Solution to https://www.beecrowd.com.br/judge/problems/view/1118
-#!/usr/bin/env python
-# encoding : utf-8
 array = []
 while True:
     e = float(input())

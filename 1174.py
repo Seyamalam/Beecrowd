@@ -1,7 +1,3 @@
-# Ivan Carvalho
-# Solution to https://www.beecrowd.com.br/judge/problems/view/1174
-#!/usr/bin/env python
-# encoding : utf-8
 array = []
 for i in range(100):
     array.append(float(input()))

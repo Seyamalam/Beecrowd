@@ -1,6 +1,3 @@
-# Ivan Carvalho
-# Solution to https://www.beecrowd.com.br/judge/problems/view/1097
-# -*- coding: utf-8 -*-
 i = 1
 j = 7
 while i <= 9:

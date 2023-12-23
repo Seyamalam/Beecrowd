@@ -1,5 +1,3 @@
-// Ivan Carvalho
-// Solution to https://www.beecrowd.com.br/judge/problems/view/1080
 #include <iostream>
 int main() {
     int resposta = 0, indice = 0, i;

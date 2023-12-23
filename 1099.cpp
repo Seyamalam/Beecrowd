@@ -1,5 +1,3 @@
-// Ivan Carvalho
-// Solution to https://www.beecrowd.com.br/judge/problems/view/1099
 #include <cstdio>
 int main() {
     int casos, caso;

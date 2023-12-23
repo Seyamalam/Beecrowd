@@ -1,5 +1,3 @@
-// Ivan Carvalho
-// Solution to https://www.beecrowd.com.br/judge/problems/view/1150
 #include <cstdio>
 #define MENOSINFINITO -2147483647
 int main() {
