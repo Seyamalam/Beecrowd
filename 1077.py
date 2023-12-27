@@ -1,7 +1,3 @@
-# Ivan Carvalho
-# Solution to https://www.beecrowd.com.br/judge/problems/view/1077
-#!/usr/bin/env python
-# -*- coding : utf-8 -*-
 casos = int(input())
 for caso_davez in range(casos):
     entrada = input()

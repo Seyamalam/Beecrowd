@@ -1,5 +1,3 @@
-// Ivan Carvalho
-// Solution to https://www.beecrowd.com.br/judge/problems/view/1179
 #include <cstdio>
 int main() {
     int par[5], impar[5];
